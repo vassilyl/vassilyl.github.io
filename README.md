@@ -1,2 +1,1 @@
-vassilyl.github.io
-==================
+http://research.microsoft.com/people/vassilyl
